@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.float{
+    width:40%;
+    float: left;
+  
+   
+}
+/* .par{
+    text-align: center; */
+}
+
+.clear{
+clear: both;
+}
+
+.box{
+    float: left;
+    font-size: 4rem;
+}
+.box1{
+    background-color: aquamarine;
+    width: 40%;
+
+}
+
+.box2{
+    background-color: magenta;
+    width: 30%;
+}
+ 
+.box3{
+    background-color: purple;
+width: 20%;
+}
